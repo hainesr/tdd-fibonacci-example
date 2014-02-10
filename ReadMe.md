@@ -4,6 +4,15 @@
 
 ## Robert Haines, University of Manchester, 2014
 
+### Working through the steps
+
+Each step is tagged so you can move through the example by checking each step
+out as you get to it. For example:
+
+    $ git checkout step-1
+
+Tags are named `step-n`, where `1 <= n <= 8`.
+
 ### Running these examples
 #### From a terminal
 

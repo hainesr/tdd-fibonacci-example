@@ -8,7 +8,7 @@ Each step in this script is related to the slide of the same name. All code is
 designed to be copied directly into a shell terminal or text editor for
 demonstration purposes.
 
-
+------------------------------------------------------------------------------
 
 ### Setup
 
@@ -18,7 +18,7 @@ demonstration purposes.
 
     export PYTHONPATH=`pwd`/src
 
-
+------------------------------------------------------------------------------
 
 ### Step 1: Write a test
 
@@ -52,7 +52,7 @@ demonstration purposes.
 
     python test/test_fibonacci.py
 
-
+------------------------------------------------------------------------------
 
 ### Step 2: Write a test
 
@@ -78,7 +78,7 @@ demonstration purposes.
 
     python test/test_fibonacci.py
 
-
+------------------------------------------------------------------------------
 
 ### Step 3: Write a test
 
@@ -92,7 +92,7 @@ demonstration purposes.
 
     python test/test_fibonacci.py
 
-
+------------------------------------------------------------------------------
 
 ### Step 4: Write a test
 
@@ -119,7 +119,7 @@ demonstration purposes.
 
     python test/test_fibonacci.py
 
-
+------------------------------------------------------------------------------
 
 ### Step 5: Write a test
 
@@ -147,7 +147,7 @@ demonstration purposes.
 
     python test/test_fibonacci.py
 
-
+------------------------------------------------------------------------------
 
 ### Step 6: Refactor and test
 
@@ -163,7 +163,7 @@ demonstration purposes.
 
     python test/test_fibonacci.py
 
-
+------------------------------------------------------------------------------
 
 ### Step 7: Refactor and test
 
@@ -178,7 +178,7 @@ demonstration purposes.
 
     python test/test_fibonacci.py
 
-
+------------------------------------------------------------------------------
 
 ### Step 8: Refactor and test (and done)
 

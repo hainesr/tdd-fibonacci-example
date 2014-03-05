@@ -6,8 +6,11 @@
 
 ### Working through the steps
 
-Each step is tagged so you can move through the example by checking each step
-out as you get to it. For example:
+See walkthrough-slides.pdf and walkthough-script.md in this directory for the
+individual steps.
+
+In this repository each step is tagged so you can move through the example by
+checking each step out as you get to it. For example:
 
     $ git checkout step-1
 

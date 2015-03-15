@@ -2,7 +2,7 @@
 
 ## Adapted from Test-Driven Development By Example, Kent Beck.
 
-## Robert Haines, University of Manchester, 2014
+## Robert Haines, University of Manchester, 2014, 2015
 
 ### Working through the steps
 
@@ -12,7 +12,9 @@ individual steps.
 In this repository each step is tagged so you can move through the example by
 checking each step out as you get to it. For example:
 
-    $ git checkout step-1
+```sh
+git checkout step-1
+```
 
 Tags are named `step-n`, where `1 <= n <= 8`.
 
@@ -20,12 +22,14 @@ Tags are named `step-n`, where `1 <= n <= 8`.
 #### From a terminal
 
 1.  Add the 'src' directory to the python library search path:
-
-        $ export PYTHONPATH=`pwd`/src
+    ```sh
+    export PYTHONPATH=`pwd`/src
+    ```
 
 1.  Run the tests:
-
-        $ python test/test_fibonacci.py
+    ```sh
+    python test/test_fibonacci.py
+    ```
 
 #### Within Eclipse
 

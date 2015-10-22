@@ -1,4 +1,4 @@
-# COMP61542 TDD step-by-step example
+# TDD step-by-step example
 
 ## Adapted from Test-Driven Development By Example, Kent Beck.
 

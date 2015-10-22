@@ -1,4 +1,4 @@
-# COMP61542 TDD step-by-step example walkthrough script
+# TDD step-by-step example walkthrough script
 
 ## Adapted from Test-Driven Development By Example, Kent Beck.
 

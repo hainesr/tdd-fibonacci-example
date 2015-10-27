@@ -5,9 +5,14 @@
 ## Robert Haines, University of Manchester, 2014, 2015
 
 ### Working through the steps
+#### In IPython/Jupyter Notebook
 
-See walkthrough-slides.pdf, walkthough-script.md or walkthrough-notebook.ipynb
-in this directory for the individual steps.
+Load up walkthrough-notebook.ipynb into your favourite IPython/Jupyter server.
+
+#### Using your local python setup
+
+See walkthrough-slides.pdf or walkthough-script.md in this directory for the
+individual steps.
 
 In this repository each step is tagged so you can move through the example by
 checking each step out as you get to it. For example:

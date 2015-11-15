@@ -4,6 +4,8 @@
 # Adapted from Test-Driven Development By Example, Kent Beck.
 #
 # Robert Haines, University of Manchester, 2015
+#
+# BSD Licenced. See LICENCE for details.
 #------------------------------------------------------------------------------
 
 FROM jupyter/minimal-notebook:4.0

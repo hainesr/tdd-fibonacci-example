@@ -70,3 +70,7 @@ Tags are named `step-n`, where `1 <= n <= 8`.
 1.  Right-click on 'test_fibonacci.py' in the 'test' directory and select
     'Run As -> Python Unit Test'. Again this may differ depending on which
     plugin you are using.
+
+### Licence
+
+BSD. See LICENCE for details.

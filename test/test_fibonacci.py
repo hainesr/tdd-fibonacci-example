@@ -3,7 +3,9 @@
 #
 # Adapted from Test-Driven Development By Example, Kent Beck.
 #
-# Robert Haines, University of Manchester, 2014
+# Robert Haines, University of Manchester, 2014, 2015
+#
+# BSD Licenced. See LICENCE for details.
 #------------------------------------------------------------------------------
 
 import unittest

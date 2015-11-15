@@ -7,7 +7,32 @@
 ### Working through the steps
 #### In IPython/Jupyter Notebook
 
-Load up walkthrough-notebook.ipynb into your favourite IPython/Jupyter server.
+There is a [Docker
+image](https://hub.docker.com/r/hainesr/tdd-fibonacci-example/) you can use so
+that you don't need to install Jupyter on your own machine. Simply [install
+Docker](http://docs.docker.com/windows/started/) and run:
+
+```sh
+docker run -d -p 8888:8888 --name tdd hainesr/tdd-fibonacci-example
+```
+
+This will download the image, if required, and then start the Jupyter notebook
+server on port `8888`. Open your Web browser at http://localhost:8888 and then
+click on the `walkthrough-notebook.ipynb` link to get started.
+
+When you have finished, shut down the image with:
+
+```sh
+docker stop tdd
+docker rm tdd
+```
+
+Alternatively you can load up `walkthrough-notebook.ipynb` into your favourite
+IPython/Jupyter server.
+
+Please see [the Jupyter
+documentation](http://jupyter.readthedocs.org/en/latest/index.html) for more
+information.
 
 #### Using your local python setup
 

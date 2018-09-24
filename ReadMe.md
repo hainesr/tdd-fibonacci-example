@@ -5,7 +5,16 @@
 ## Robert Haines, University of Manchester, 2014, 2015
 
 ### Working through the steps
-#### In IPython/Jupyter Notebook
+#### Using binder to run the Jupyter Notebook
+
+Go to https://mybinder.org/v2/gh/hainesr/tdd-fibonacci-example/master and then
+click on `walkthrough-notebook.ipynb` once the environment has loaded.
+
+Please see [the Jupyter
+documentation](http://jupyter.readthedocs.org/en/latest/index.html) for more
+information.
+
+#### Using Docker to run the Jupyter Notebook
 
 There is a [Docker
 image](https://hub.docker.com/r/hainesr/tdd-fibonacci-example/) you can use so

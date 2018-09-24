@@ -7,8 +7,12 @@
 ### Working through the steps
 #### Using binder to run the Jupyter Notebook
 
-Go to https://mybinder.org/v2/gh/hainesr/tdd-fibonacci-example/master and then
-click on `walkthrough-notebook.ipynb` once the environment has loaded.
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/hainesr/tdd-fibonacci-example/master)
+
+Click on the above badge, or go to
+https://mybinder.org/v2/gh/hainesr/tdd-fibonacci-example/master.
+
+Click on `walkthrough-notebook.ipynb` once the environment has loaded.
 
 Please see [the Jupyter
 documentation](http://jupyter.readthedocs.org/en/latest/index.html) for more
